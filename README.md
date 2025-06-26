@@ -6,7 +6,7 @@ Nice to meet you, I'm Erick! 🤝
 ###### Connect with me on my networks: Find all my contact platforms on Linktree!<br>
 [![Linktree](https://img.shields.io/badge/linktree-000000?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/eericdsn)
 
-![Erick GitHub stats](https://github-readme-stats.vercel.app/api?username=EricdSouzx&show_icons=true&theme=dark)
+![Erick GitHub stats](https://github-readme-stats.vercel.app/api?username=erdesousa&show_icons=true&theme=dark)
 
 ### My skills
 
