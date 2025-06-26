@@ -2,6 +2,7 @@
 #### Here you will find my projects (Academic + Work). 
 Nice to meet you, I'm Erick! 🤝
 
+
 ![Erick GitHub stats](https://github-readme-stats.vercel.app/api?username=erdesousa&show_icons=true&theme=dark)
 
 ### My skills
