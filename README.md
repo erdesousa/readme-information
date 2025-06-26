@@ -2,7 +2,7 @@
 #### Here you will find my projects (Academic + Work). 
 Nice to meet you, I'm Erick! 🤝
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=erdesousa)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erdesousa)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Erick GitHub stats](https://github-readme-stats.vercel.app/api?username=erdesousa&show_icons=true&theme=dark)
 
